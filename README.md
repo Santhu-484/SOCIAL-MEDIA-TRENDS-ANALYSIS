@@ -35,5 +35,6 @@ To extract, process, and visualize social media data, offering actionable insigh
 * Strongest activity from users in **Australia** and **Canada**
 * Useful for businesses targeting social media campaigns by geography or platform
 
-![Screenshot 2025-05-09 182012](https://github.com/user-attachments/assets/722899c1-85da-48a2-8a9a-8e3e7c88779e)
+![Screenshot 2025-05-10 185247](https://github.com/user-attachments/assets/77e2cbe0-6922-494a-b4ec-7819a6bf8236)
+
 
