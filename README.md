@@ -34,3 +34,6 @@ To extract, process, and visualize social media data, offering actionable insigh
 * **Instagram** leads in overall user engagement
 * Strongest activity from users in **Australia** and **Canada**
 * Useful for businesses targeting social media campaigns by geography or platform
+
+![Screenshot 2025-05-09 182012](https://github.com/user-attachments/assets/722899c1-85da-48a2-8a9a-8e3e7c88779e)
+
